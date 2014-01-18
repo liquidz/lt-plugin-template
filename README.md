@@ -5,7 +5,7 @@ alpha version for myself
 ## Usage
 
 ```sh
-$ git clone ...
+$ git clone https://github.com/liquidz/lt-plugin-template.git
 $ lein install
 $ lein new lt-plugin hello
 ```
