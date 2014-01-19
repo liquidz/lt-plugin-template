@@ -16,6 +16,7 @@
     (->files
       data
       ["CONTRIBUTING.md" (render "CONTRIBUTING.md" data)]
+      ["LICESE.md" (render "LICENSE.md" data)]
       ["README.md" (render "README.md" data)]
       ["plugin.edn" (render "plugin.edn" data)]
       ["project.clj" (render "project.clj" data)]
